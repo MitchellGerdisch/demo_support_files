@@ -4,7 +4,7 @@ a img {border:none}
 a {text-decoration:none; color:#1e4a7e}
 
 #header {
-	background:#2DEE14; 
+	background:#27CB6E; 
 	padding:2px 20px; 
 	position:relative; 
 	height:25px;
@@ -16,7 +16,7 @@ a {text-decoration:none; color:#1e4a7e}
 
 .code_container {
 	border:1px black solid;
-	background: #CB27CB;
+	background: #2771CB;
 	width:90%;
 	margin-left: auto ;
     margin-right: auto ;

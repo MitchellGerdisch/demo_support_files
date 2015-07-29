@@ -19,7 +19,7 @@
 <div class="code_container">
 <div class="code">
 
-<H1>A New Database Connection Test</H1>
+<H1><center>A New Database Connection Test</center></H1>
 
 <?php
 
@@ -43,7 +43,7 @@ $name=mysql_result($result,$i,"name");
 $value=mysql_result($result,$i,"value");
 
 
-echo "<b>$name - $value</b><br><hr><br>";
+echo "<b><center>$name - $value</center></b><br><hr><br>";
 
 $i++;
 }
